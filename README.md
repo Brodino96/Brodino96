@@ -1,9 +1,8 @@
-<div align="center">
-<img src="https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif" align="center" style="width: 100%" />
-</div>  
+# <div align="center">Hello There 👋, I'm Brodino</div>  
   
-
-### <div align="center">I am a self-taught developer who learned to program for fun</div>  
+I'm a self-taught developer born in Rome in 2002.  
+I've alway been intrested in videogames and technology since I played "Lego Star Wars: The videogame" on my father's computer. This eventually lead me start programming after the FiveM server I was playing on closed.  
+This journey started with me wanting to make something that I find fun and it will end on this lead, this is not a job for me but just a way of expressing my needs! I want to create stuff that I in primis find useful!
   
 
 - 🔭 Currently working on [Oxidized-Assistant](https://github.com/Oxidized-Assistant)  
