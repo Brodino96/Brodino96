@@ -85,9 +85,9 @@ This journey started with me wanting to make something that I find fun and it wi
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brodino96&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brodino96&show_icons=true&count_private=true&hide_border=true&theme=city_lights" align="center" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodino96&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodino96&hide_border=true&layout=compact&theme=city_lights" align="left" style="width: 100%" />  
 
 <br/>  
 
